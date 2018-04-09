@@ -1,0 +1,13 @@
+c:\users\langolier\documents\visual studio 2012\Projects\lab1SHORP\lab1SHORP\bin\Debug\lab1SHORP.exe.config
+C:\Users\Langolier\documents\visual studio 2012\Projects\lab1SHORP\lab1SHORP\bin\Debug\lab1SHORP.exe
+C:\Users\Langolier\documents\visual studio 2012\Projects\lab1SHORP\lab1SHORP\bin\Debug\lab1SHORP.pdb
+C:\Users\Langolier\documents\visual studio 2012\Projects\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.csprojResolveAssemblyReference.cache
+C:\Users\Langolier\documents\visual studio 2012\Projects\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.exe
+C:\Users\Langolier\documents\visual studio 2012\Projects\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.pdb
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\bin\Debug\lab1SHORP.exe.config
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\bin\Debug\lab1SHORP.exe
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\bin\Debug\lab1SHORP.pdb
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.csprojResolveAssemblyReference.cache
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.csproj.CoreCompileInputs.cache
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.exe
+C:\Users\влад\Downloads\lab1SHORP\lab1SHORP\obj\Debug\lab1SHORP.pdb
