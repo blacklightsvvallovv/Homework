@@ -10,7 +10,7 @@ namespace lab1SHORP
     {
         static void Main(string[] args)
         {
-            Strings symbols = new Strings("hghg++hg+");
+            Strings symbols = new Strings("hghg--hg+");
             
             symbols.Replace();
             symbols.Insert();
