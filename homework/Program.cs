@@ -17,7 +17,7 @@ namespace lab1SHORP
             symbols.Replace();
             symbols.Insert();
             symbols.Show();
-
+            Console.WriteLine("Program replaces, inserts, shows result");
             string s = String.Format(symbols.ToString());
             Console.ReadKey();
           }
