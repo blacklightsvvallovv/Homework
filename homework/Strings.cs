@@ -22,7 +22,7 @@ namespace lab1SHORP
         public void Replace()
         {
             
-            ReplacedData = InitialData.Replace("+","*");
+            ReplacedData = InitialData.Replace("-","*");
             quantityOfreplaces++;
         }
 
